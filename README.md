@@ -6,6 +6,6 @@ Hi, I'm Vinh. I'm developing to make services that will improve our live.
 🧑‍💻 Code makes me happy. <br />
 🎮 I love playing games and programming games. <br />
 🏸 My favorite sport is badminton. <br />
-🤙 You can contact me: ![img_4286a-350x233](https://www.facebook.com/le.vinh.2013/) <br />
+🤙 You can contact me: <a class="fa fa-facebook-f" href="https://www.facebook.com/le.vinh.2013/"></a> <br />
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=)
