@@ -8,4 +8,4 @@ Hi, I'm Vinh. I'm developing to make services that will improve our live.
 🏸 My favorite sport is badminton. <br />
 🤙 You can contact me: <a href="#" class="fa fa-facebook"></a> <br />
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=)
