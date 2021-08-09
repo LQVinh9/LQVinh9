@@ -4,7 +4,7 @@
 
 Hi, I'm Vinh. I'm developing to make services that will improve our live.
 
-👨‍🎓 FPT University. <br />
+👨‍🎓 Studying at FPT University. <br />
 🧑‍💻 Code makes me happy. <br />
 🎮 I love playing games and programming games. <br />
 🏸 My favorite sport is badminton. <br />
