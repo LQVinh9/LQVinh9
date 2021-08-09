@@ -6,7 +6,7 @@ Hi, I'm Vinh. I'm developing to make services that will improve our live.
 🧑‍💻 Code makes me happy. <br />
 🎮 I love playing games and programming games. <br />
 🏸 My favorite sport is badminton. <br />
-[![alt text][2.1]:http://i.imgur.com/P3YfQoD.png][2]:https://www.facebook.com/le.vinh.2013
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 🤙 You can contact me: 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=)
